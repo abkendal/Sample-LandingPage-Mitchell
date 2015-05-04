@@ -56,6 +56,12 @@ h3 {
 }
 
 img { max-width: 100%; }
+iframe {
+	opacity:0.5;
+}
+iframe:hover {
+	opacity:1;
+}
 
 .medium-paragraph {
 	font-size: 18px;
