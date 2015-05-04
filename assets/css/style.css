@@ -345,6 +345,10 @@ ul.navbar-nav {
 .top-content .profileImg {
 	padding-bottom: 5px;
 }
+.top-content .pencil {
+	opacity: 0.5;
+	width: 50%;
+}
 
 
 .form-top {
